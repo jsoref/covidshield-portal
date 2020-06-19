@@ -1,0 +1,12 @@
+^\.dependabot/
+^\.github/
+^package\.json$
+^vendor/
+\.enc
+\.ico$
+\.keep$
+\.lock$
+\.png$
+\.svg$
+ignore$
+/fr\.yml$
